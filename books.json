@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "bookname": "西游记",
+        "author": "唐僧",
+        "publisher": "北京出版社"
+    },
+    {
+        "id": 3,
+        "bookname": "红楼梦",
+        "author": "唐僧",
+        "publisher": "北京出版社"
+    },
+    {
+        "id": 5,
+        "bookname": "水浒传",
+        "author": "唐僧",
+        "publisher": "北京出版社"
+    },
+    {
+        "id": 1665305997258,
+        "bookname": "朝花夕拾",
+        "author": "鲁迅",
+        "publisher": "商务出版社"
+    }
+]
